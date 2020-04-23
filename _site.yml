@@ -1,0 +1,12 @@
+name: "Thrailkill Laboratory"
+navbar:
+  title: "Thrailkill Laboratory of Translational Behavioral Neuroscience"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Projects"
+      href: projects.html
+    - text: "Publications"
+      href: publications.html
+    - text: "People"
+      href: people.html
